@@ -57,7 +57,7 @@ The two primary functions of this program are the ASCII Art Generator and the Fi
 
 ### ASCII Art Generator
 
-![Image of ascii art generator page](/images/ProjectScreenshot3.png)
+<img src="/images/ProjectScreenshot3.png" alt="Image of ascii art generator page" width="750"/>
 
 In order to generate ASCII art the user will need to upload an image of the supported file types.
 
@@ -65,11 +65,11 @@ By default, the size of the art created will be 100 characters wide however the 
 
 Once the image has been loaded successfully, it should look something like this:
 
-![Image of ascii art generator page with loaded duck](/images/ProjectScreenshot4.png)
+<img src="/images/ProjectScreenshot4.png" alt="Image of ascii art generator page with loaded duck" width="750"/>
 
 ### Filters
 
-![Image of filters page](/images/ProjectScreenshot.png)
+<img src="/images/ProjectScreenshot.png" alt="Image of filters page" width="750"/>
 
 Similar to the ascii art generator, the user needs to first upload an image of the supported file types before being able to do anything.
 
@@ -79,7 +79,7 @@ The user also has the option to download the image with the applied filter throu
 
 Below is an image of the CS50 duck with the black and white filter applied with maximum intensity.
 
-![Image of filters black and white duck](/images/ProjectScreenshot2.png)
+<img src="/images/ProjectScreenshot2.png" alt="Image of filters black and white duck" width="750"/>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
